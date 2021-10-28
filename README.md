@@ -1,6 +1,6 @@
 #  Create React page responsive
 
-## 🧪 Tecnologias
+## 🧪 Technologies
 
 this project was created with the technologies below 
 
