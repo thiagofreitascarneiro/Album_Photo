@@ -52,8 +52,7 @@ const App = () => {
                                     <Button className={classes.button} variant="contained" color="primary" align ="center" justify="center">
                                         Send image
                                     </Button>
-                                </Grid>
-                                
+                                </Grid>                             
                             </Grid>
                         </div>
                     </Container>
